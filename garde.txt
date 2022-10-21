@@ -1,0 +1,57 @@
+<div class="row">
+        <div class="col-lg-3 col-sm-6" onclick="myFunction()" style="width: 400px;">
+            <div>
+              <div class="showed-content" style="background-color: #f18622;">
+                <div>  
+                  <button class="cercle"></button>
+                  <h1 class="h1offre">NEW BUSINESS</h1><br>
+                <h3 class="prix">35 000 fcfa</h3><br>
+                <h7 class="parmois">par mois</h7>
+                  <div id="myDIV1">
+                    This is my DIV element 1.
+                    </div>
+                </div> 
+
+              </div>
+            </div>
+        </div>
+
+        <div class="col-lg-3 col-sm-6" class="cardoffre2" onclick="myFunction2()" style="width: 400px;">
+          <div>
+            <div class="showed-content" style="background-color: #f18622;">
+              <div>  
+                <button style="background:#29275c; border-radius:50%; width:60px; height:60px; border:2px solid #29275c;"></button>
+                <h1 class="h1offre">BUSINESS PILOT</h1><br>
+                <h3 class="prix">65 000 fcfa</h3><br>
+                <h7 class="parmois">par mois</h7>
+                <div id="myDIV2">
+                  This is my DIV element 2.
+                  </div>
+              </div> 
+            </div>
+          </div>
+      </div>
+
+      <div class="col-lg-3 col-sm-6" onclick="myFunction3()" style="width: 400px;">
+        <div>
+          <div class="showed-content" style="background-color: #f18622;">
+            <div>  
+              <button style="background:#29275c; border-radius:50%; width:60px; height:60px; border:2px solid #29275c;"></button>
+              <h1 class="h1offre" >BUSINESS PARTENER</h1><br>
+                <h3 class="prix">75 000 fcfa</h3><br>
+                <h7 class="parmois">par mois</h7>
+              <div id="myDIV3">
+                This is my DIV element 3.
+                </div>
+            </div> 
+          </div>
+        </div>
+    </div>
+
+      </div>
+
+
+
+
+
+      https://meet.google.com/yfu-bvux-yjx

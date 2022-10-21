@@ -1,0 +1,110 @@
+.icon{
+    margin-top: -50px;
+    width: 200px;
+    float: left;
+    height: 70px;
+    
+  }
+  .icon img{
+    width: 156px;
+    float: left;
+    margin-left: 0px;
+    padding-left: 5%;
+    padding-top: 2%;
+    
+  }
+
+  /*--------- apres top bar -----------*/
+
+  .main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(1.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: #fff;
+    position: relative;
+}
+
+.content .par{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+}
+
+.content h1{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+}
+
+.content .cn{
+    width: 160px;
+    height: 40px;
+    background: white;
+    border: none;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .4s ease;
+    
+}
+
+.content .cn a{
+    text-decoration: none;
+    color: #f18622;
+    transition: .3s ease;
+}
+
+.cn:hover{
+    background-color: #fff;
+}
+
+.content span{
+    color: #ff7200;
+    font-size: 65px
+}
+.par{
+    color: white;
+}
+
+/*------- Design offre desktop---------*/
+
+.cercle{
+    background:#29275c; 
+    border-radius:50%; width:60px; 
+    height:60px; 
+    border:2px solid #29275c;
+}
+.h1offre{
+    font-weight: bold;
+}
+.prix{
+    margin-left: -70px;
+    color: white
+}
+.parmois{
+    margin-left: -150px;
+    color: white;
+}
+/*------- Design offre Mobile ---------*/
+
+@media all and  (max-width:  1024px)
+{
+    .cardoffre2{
+        margin-top: 130px;
+    }
+}
+
+
